@@ -1,0 +1,8 @@
+\bin
+\obj
+\v16
+\.vs
+*.suo
+*.v2
+*.v1
+*.sln
